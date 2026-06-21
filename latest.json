@@ -1,6 +1,6 @@
-{
-  "version": "1.0.0",
-  "apkUrl": "https://raw.githubusercontent.com/Capular/smartboard-sklink-android/main/releases/1.0.0/smartboard-sklink-debug.apk",
-  "sha256": "f783296acfa87c0ef6e4b4a13c15bf8b5f0ca5fa268ca36a2e9fe81ec778b98b",
-  "changelog": "Initial Android smartboard release"
+﻿{
+    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android/main/releases/1.0.0/smartboard-sklink-debug.apk",
+    "changelog":  "Initial Android smartboard release",
+    "sha256":  "e2eb099ce837f1bfc79b1e26549c7fc533a51f5611623fb8de1cd96c2e19a482",
+    "version":  "1.0.0"
 }
