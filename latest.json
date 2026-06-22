@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.10",
-    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.10/smartboard-sklink-1.0.10.apk",
-    "sha256":  "a61e38cc0f946ec3bff73293182c845dfcb8f5ef9981769f64c763cb05a88dc9",
-    "changelog":  "Refine whiteboard split toolbar, fresh live-board launch, material draft restore, and two-step material opening."
+    "version":  "1.0.11",
+    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.11/smartboard-sklink-1.0.11.apk",
+    "sha256":  "2e91335f9cadc03a2a621afd4f090e1585812e483e901828332b6212bcf24a5c",
+    "changelog":  "Anchor whiteboard split toolbar groups to the bottom-left, bottom-center, and bottom-right positions."
 }
