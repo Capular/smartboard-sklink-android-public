@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.4",
-    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.4/smartboard-sklink-1.0.4.apk",
-    "sha256":  "82f800e5df2f848ebc815cf662834e349c2df20c378972e058efc0e5b588a2f3",
-    "changelog":  "Improve updater version checks, stabilize whiteboard state handling, and switch Android feed publishing to versioned APK artifacts."
+    "version":  "1.0.6",
+    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.6/smartboard-sklink-1.0.6.apk",
+    "sha256":  "e39f9df11abe0d46b13d44b056bb16c603d118f81cc07f16a3d813e770b6ab03",
+    "changelog":  "Fix Android smartboard material filtering to match PC behavior, repair mirrored material metadata for teacher-scoped files, and refresh Android lock-state handling."
 }
