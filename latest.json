@@ -1,6 +1,6 @@
 {
-    "version": "1.0.12",
-    "apkUrl": "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.12/smartboard-sklink-1.0.12.apk",
-    "sha256": "fa7434221294f817944472cfa3fb9c35e010a331d98d841b02bca9122af8efe5",
-    "changelog": "Fix whiteboard launch flow, add timer and loading progress, improve continuous-scroll PDF viewing, and stabilize the Python runtime."
+    "version": "1.0.13",
+    "apkUrl": "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.13/smartboard-sklink-1.0.13.apk",
+    "sha256": "282ddcfefdf6ea822a29bcaa87c5eeed948f9aad9d9c9ecd97d7788b1887bed9",
+    "changelog": "Refine the whiteboard toolbar docks, move pen and eraser controls into tool popups, replace inline adjust with settings, and fix Python runner execution."
 }
