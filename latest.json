@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.21",
-    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.21/smartboard-sklink-1.0.21.apk",
-    "sha256":  "8ba2085276ae792a9e484cacefb370ca2b67265714f6660c196ef9780267d95d",
-    "changelog":  "Fix whiteboard toolbar touch pass-through, add About page, and tune slider and switch colors."
+    "version":  "1.0.22",
+    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.22/smartboard-sklink-1.0.22.apk",
+    "sha256":  "e45114eadb568dfe2e1b739f843c3ae78ae1a7b578f2be4275ac45ba5d696abf",
+    "changelog":  "Add timetable page, simplify eraser menu, close page overview on canvas tap, and keep pen size stable while zooming."
 }
