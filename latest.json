@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.25",
-    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.25/smartboard-sklink-1.0.25.apk",
-    "sha256":  "775a2967aa76c49ef774602826d693d2a71ab07542d1b3648d20c4ed944871c0",
-    "changelog":  "Update app branding assets, improve sidebar settings visibility, and redesign the About page."
+    "version":  "1.0.26",
+    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.26/smartboard-sklink-1.0.26.apk",
+    "sha256":  "669581cf2f067a1af0e145d095a6b49641dcf87943bb7029a89051304b3e5b8e",
+    "changelog":  "Render changelogs as bullet points, Make the update dialog buttons full-width, Stretch the download progress bar, Refresh the About page logo and content layout"
 }
